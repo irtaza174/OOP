@@ -1,12 +1,16 @@
-# Mental Health Data Analysis Project
+# Project Title
+
+Mental Health Data Analysis Project
+
+## Project Description
 
 This project analyzes a mental health dataset using Python and object-oriented programming (OOP) principles. It covers data collection, understanding, preprocessing, analysis, model training, and model storage.
 
 ## Project Structure
 
+- `OOP/`: Directory for this OOP-related resources.
 - `Project.ipynb`: Main Jupyter notebook containing all code and analysis.
 - `mental_health_dataset.csv`: The dataset used for analysis.
-- `OOP/`: Directory for OOP-related resources.
 
 ## Main Steps
 
@@ -36,14 +40,10 @@ This project analyzes a mental health dataset using Python and object-oriented p
 - pickle
 
 Install dependencies with:
-```sh
 pip install pandas numpy seaborn matplotlib scikit-learn
-```
 
 ## Dataset
 
 The dataset file should be named `mental_health_dataset.csv` and placed in the project directory.
 
 ---
-
-Feel free to modify this README to better fit your project!
