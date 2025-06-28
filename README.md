@@ -42,6 +42,10 @@ This project analyzes a mental health dataset using Python and object-oriented p
 Install dependencies with:
 pip install pandas numpy seaborn matplotlib scikit-learn
 
+## Github
+
+git clone https://github.com/irtaza174/OOP.git
+
 ## Dataset
 
 The dataset file should be named `mental_health_dataset.csv` and placed in the project directory.
